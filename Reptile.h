@@ -3,8 +3,11 @@
 
 #include "Animal.h"
 
-//define reptile class here
-
+Reptile :: Reptile (){
+isVenomus = false ;
+Reptile :: Reptile (string name, int age ,bool isHungry){
+this->isVenomus = isVenomus;
+}
 
 
 
