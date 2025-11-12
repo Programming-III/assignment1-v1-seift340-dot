@@ -3,7 +3,11 @@
 
 #include "Animal.h"
 
-//define class bird here 
+//define class bird he bird : bird{
+bird : bird(string name, int age ,bool isHungry)
+ {
+   this->wingspan = wingspan
+ }re 
 
 
 
