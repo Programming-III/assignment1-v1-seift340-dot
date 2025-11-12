@@ -1,13 +1,7 @@
-#ifndef MAMMAL_H
-#define MAMMAL_H
+mammal : mammal{
 
-#include "Animal.h"
-
-//define mammal class here
-
-
-
-
-
-
-#endif
+  string  mammal = furColor ;
+ mammal : mammal (string name, int age ,bool isHungry)
+ {
+   this->furcolor = furcolor
+ }
