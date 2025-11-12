@@ -4,7 +4,21 @@
 #include <string>
 using namespace std;
 
-//define visitor class here
+//define vis#ifndef VISTOR_H_INCLUDED
+#define VISTOR_H_INCLUDED
+
+
+
+#endif // VISTOR_H_INCLUDED
+using namespace std;
+class Vistor {
+public:
+void displayInfo();
+private:
+string vistorName;
+int ticketsBought;
+};
+itor class here
 
 
 
